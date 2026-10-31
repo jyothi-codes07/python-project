@@ -1,0 +1,44 @@
+[
+  {
+    "question": "Which country is known as the Land of the Rising Sun?",
+    "options": ["Japan", "China", "India", "Thailand"],
+    "answer": 0,
+    "explanation": "Japan is called the Land of the Rising Sun because it lies to the east, where the sun rises first."
+  },
+  {
+    "question": "Which country built the Great Wall?",
+    "options": ["Japan", "China", "Mongolia", "Korea"],
+    "answer": 1,
+    "explanation": "The Great Wall of China was constructed to protect the country from northern invasions and nomadic tribes."
+  },
+  {
+    "question": "Which country was known as Persia in ancient times?",
+    "options": ["Egypt", "Turkey", "Iran", "Iraq"],
+    "answer": 2,
+    "explanation": "Iran was historically called Persia until 1935 when it officially changed its name."
+  },
+  {
+    "question": "Who discovered America in 1492?",
+    "options": ["Vasco da Gama", "Marco Polo", "Ferdinand Magellan", "Christopher Columbus"],
+    "answer": 3,
+    "explanation": "Columbus, an Italian explorer sailing for Spain, reached the Americas in 1492, opening the way for European exploration."
+  },
+  {
+    "question": "Which country is known as the Land Down Under?",
+    "options": ["Australia", "New Zealand", "South Africa", "Brazil"],
+    "answer": 0,
+    "explanation": "Australia is called the Land Down Under because it lies in the Southern Hemisphere below Asia."
+  },
+  {
+    "question": "Which country is known as the Land of the Pharaohs?",
+    "options": ["Greece", "Egypt", "Italy", "Sudan"],
+    "answer": 1,
+    "explanation": "Egypt is called the Land of the Pharaohs because it was ruled by ancient kings known as pharaohs."
+  },
+  {
+    "question": "Which country is famous for the Eiffel Tower?",
+    "options": ["Spain", "Germany", "Italy", "France"],
+    "answer": 3,
+    "explanation": "The Eiffel Tower, an iconic landmark, is located in Paris, the capital of France."
+  }
+] 

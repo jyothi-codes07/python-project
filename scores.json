@@ -1,0 +1,50 @@
+[
+    {
+        "name": "Lalitha",
+        "score": 6,
+        "total": 7,
+        "percentage": 85.71
+    },
+    {
+        "name": "Likitha",
+        "score": 6,
+        "total": 7,
+        "percentage": 85.71
+    },
+    {
+        "name": "Satya",
+        "score": 5,
+        "total": 7,
+        "percentage": 71.43
+    },
+    {
+        "name": "aruna",
+        "score": 7,
+        "total": 7,
+        "percentage": 100.0
+    },
+    {
+        "name": "xyz",
+        "score": 3,
+        "total": 7,
+        "percentage": 42.86
+    },
+    {
+        "name": "Jyothi",
+        "score": 4,
+        "total": 7,
+        "percentage": 57.14
+    },
+    {
+        "name": "sunshine",
+        "score": 6,
+        "total": 7,
+        "percentage": 85.71
+    },
+    {
+        "name": "Sunshine",
+        "score": 7,
+        "total": 7,
+        "percentage": 100.0
+    }
+]
